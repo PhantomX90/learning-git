@@ -1,4 +1,4 @@
-# learning-git
+# Learning Git and GitHub Course
 
 ## I'm learning how to use git ! This repo is used to learn git from Youtube.
 
